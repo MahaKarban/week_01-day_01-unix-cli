@@ -172,21 +172,19 @@ Verify that your directory structure resembles the following:
 
 ```sh
 ~/wdi
-├── challenges
-├── diagnostics
-├── practices
+├── lessons
+├── homeworks
+├── warmups
 ├── projects
-├── studies
 ├── tmp
-└── trainings
 ```
 
 Now that we have our wdi directory setup, use the `mv` command to move some
 files into it.
 
-Find where the `unix-cli` and `installfest` directories are
+Find where the `unix-cli` directory are
 stored (may be in the home directory). Then move those directories into the
-`trainings` directory.
+`lessons` directory.
 
 ## Files
 
