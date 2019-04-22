@@ -1,0 +1,11 @@
+cp  # copy files in another folder
+mv  # to rename the files or move the files to another directories
+man  # shows the diffrent uses of the command in other options
+touch # to creat a new file
+clear # to clean the workspace termanal
+history # to show the latest command used
+open # to open a file or folder out of the termenal
+pwd # shows where we are
+ls # shows the the list of content insaid a folder
+cd # moves to another folder
+mkdir # creat a new folder
